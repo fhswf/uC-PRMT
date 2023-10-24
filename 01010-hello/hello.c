@@ -4,7 +4,7 @@
  *  / _// _  /___/\ \ | |/ |/ / _//___/ // / /__
  * /_/ /_//_/   /___/ |__/|__/_/      \_,_/\___/
  *
- * Fachhochschule Südwestfalen
+ * Fachhochschule Sï¿½dwestfalen
  * Mechatronik/Mikrocomputer
  * Prof. Dr.-Ing. Tobias Ellermeyer
  *
@@ -16,7 +16,7 @@
  *      Author: Tobias Ellermeyer
  */
 
-
+// TEST
 #include <stdio.h>
 
 int main()

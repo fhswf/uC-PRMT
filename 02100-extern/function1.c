@@ -3,7 +3,7 @@
  *  / _// _  /___/\ \ | |/ |/ / _//___/ // / /__
  * /_/ /_//_/   /___/ |__/|__/_/      \_,_/\___/
  *
- * Fachhochschule Südwestfalen
+ * Fachhochschule Sï¿½dwestfalen
  * Mechatronik/Mikrocomputer
  * Prof. Dr.-Ing. Tobias Ellermeyer
  *
@@ -14,10 +14,12 @@
  * Autor:       Tobias Ellermeyer
  */
 
+// TEST
+
 #include <stdio.h>
 #include <stdint.h>
 
-extern int16_t a;
+int16_t a;
 
 void function1()
 {
